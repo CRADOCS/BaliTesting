@@ -1,3 +1,5 @@
+PLEASE BEWARE, THIS VERSION IS NO LONGER BEING UPDATED. WE ARE KEEPING THIS VERSION ONLINE FOR THOSE WHO WANT TO REPRODUCE THE RESULTS OF DE GELDER ET AL. (2025), BUT FOR THE LATEST VERSION OF ROSETTA, WE REFER TO https://github.com/CRADOCS/RoSETTA
+
 =============
 RoSETTA
 =============
@@ -13,7 +15,7 @@ Description
 |
 | Further reading:
 
-de Gelder, G., Hedjazian, N., Husson, L., Bodin, T., Pastier, A.-M., Boucharat, Y., Pedoja, K., Solihuddin, T. and Cahyarini, S.Y. (Submitted) Bayesian reconstruction of sea-level and hydroclimates from coastal landform inversion, submitted to Earth Surface Processes and Landforms. Preprint: https://doi.org/10.31223/X5B117
+de Gelder, G., Hedjazian, N., Husson, L., Bodin, T., Pastier, A.-M., Boucharat, Y., Pedoja, K., Solihuddin, T., and Cahyarini, S. Y.: Bayesian reconstruction of sea level and hydroclimates from coastal landform inversion: application to Santa Cruz (US) and Gulf of Corinth, Earth Surf. Dynam., 13, 941–958, https://doi.org/10.5194/esurf-13-941-2025, 2025.
 
 Hedjazian, N., Bodin, T., & Métivier, L. (2019). An optimal transport approach to linearized inversion of receiver functions. Geophysical Journal International, 216(1), 130-147.
 
