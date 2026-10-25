@@ -1,4 +1,5 @@
 numpy==1.26.4
 matplotlib==3.8.2
 scipy==1.12.0
-https://github.com/andres-m/okada_wrapper_pure/archive/refs/tags/v23.11.12.tar.gz
+mako
+cutde
